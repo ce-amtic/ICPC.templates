@@ -1,0 +1,2 @@
+# ICPC.templates
+sls.kawaii
